@@ -1,2 +1,2 @@
-# Proyectos-Escuela-C-
+# Proyectos-Escuela-C#
 Proyectos de la escuela en C#
