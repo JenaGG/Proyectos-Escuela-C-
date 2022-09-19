@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\bin\Debug\Programa18-InterfazVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa18-InterfazVolumenes\Programa18-InterfazVolumenes\obj\Debug\Programa18-InterfazVolumenes.pdb

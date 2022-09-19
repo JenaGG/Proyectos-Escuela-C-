@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\bin\Debug\Programa26–ExcepcionEcuacionCuadratica.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa26–ExcepcionEcuacionCuadratica\Programa26–ExcepcionEcuacionCuadratica\obj\Debug\Programa26–ExcepcionEcuacionCuadratica.pdb

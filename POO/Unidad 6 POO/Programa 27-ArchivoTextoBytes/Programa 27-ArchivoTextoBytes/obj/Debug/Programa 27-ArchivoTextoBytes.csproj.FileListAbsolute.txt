@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\bin\Debug\Programa 27-ArchivoTextoBytes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 27-ArchivoTextoBytes\Programa 27-ArchivoTextoBytes\obj\Debug\Programa 27-ArchivoTextoBytes.pdb

@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\bin\Debug\Programa15-RedefiniciónMétodosAreas.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa15-RedefiniciónMétodosAreas\Programa15-RedefiniciónMétodosAreas\obj\Debug\Programa15-RedefiniciónMétodosAreas.pdb

@@ -1,0 +1,7 @@
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\bin\Debug\programa ejemplo destructor y constructor de.exe.config
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\bin\Debug\programa ejemplo destructor y constructor de.exe
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\bin\Debug\programa ejemplo destructor y constructor de.pdb
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\obj\Debug\programa ejemplo destructor y constructor de.csprojAssemblyReference.cache
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\obj\Debug\programa ejemplo destructor y constructor de.csproj.CoreCompileInputs.cache
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\obj\Debug\programa ejemplo destructor y constructor de.exe
+C:\Users\genar\Documents\Unidad 3 POO\programa ejemplo destructor y constructor de\programa ejemplo destructor y constructor de\obj\Debug\programa ejemplo destructor y constructor de.pdb

@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\bin\Debug\Programa25-NegativosException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa25-NegativosException\Programa25-NegativosException\obj\Debug\Programa25-NegativosException.pdb

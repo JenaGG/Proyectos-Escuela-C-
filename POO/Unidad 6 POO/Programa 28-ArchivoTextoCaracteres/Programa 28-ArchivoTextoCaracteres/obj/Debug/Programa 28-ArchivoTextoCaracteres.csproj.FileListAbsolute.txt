@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\obj\Debug\Programa 28-ArchivoTextoCaracteres.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 6 POO\Programa 28-ArchivoTextoCaracteres\Programa 28-ArchivoTextoCaracteres\bin\Debug\Programa 28-ArchivoTextoCaracteres.pdb

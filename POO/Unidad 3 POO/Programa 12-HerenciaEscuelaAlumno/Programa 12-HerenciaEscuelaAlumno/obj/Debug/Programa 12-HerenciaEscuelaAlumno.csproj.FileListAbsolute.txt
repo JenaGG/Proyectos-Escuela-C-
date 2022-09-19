@@ -1,0 +1,13 @@
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.exe.config
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.exe
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.pdb
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.csprojAssemblyReference.cache
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.csproj.CoreCompileInputs.cache
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.exe
+C:\Users\genar\Documents\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\bin\Debug\Programa 12-HerenciaEscuelaAlumno.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa 12-HerenciaEscuelaAlumno\Programa 12-HerenciaEscuelaAlumno\obj\Debug\Programa 12-HerenciaEscuelaAlumno.pdb

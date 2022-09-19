@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\obj\Debug\Programa17-AbstractaVolumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\Scanned Documents\POO\Unidad 4 POO\Programa17-AbstractaVolumenes\Programa17-AbstractaVolumenes\bin\Debug\Programa17-AbstractaVolumenes.pdb

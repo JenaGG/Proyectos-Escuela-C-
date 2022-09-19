@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\bin\Debug\Programa21-FormatException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\bin\Debug\Programa21-FormatException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\bin\Debug\Programa21-FormatException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\obj\Debug\Programa21-FormatException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\obj\Debug\Programa21-FormatException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa21-FormatException\Programa21-FormatException\obj\Debug\Programa21-FormatException.pdb

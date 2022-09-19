@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\bin\Debug\Programa24-ArgumentOutOfRangeException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\bin\Debug\Programa24-ArgumentOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\bin\Debug\Programa24-ArgumentOutOfRangeException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\obj\Debug\Programa24-ArgumentOutOfRangeException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\obj\Debug\Programa24-ArgumentOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa24-ArgumentOutOfRangeException\Programa24-ArgumentOutOfRangeException\obj\Debug\Programa24-ArgumentOutOfRangeException.pdb

@@ -1,0 +1,5 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\Volumenes\Volumenes\bin\Debug\Volumenes.dll
+E:\Carpetas de Usuario\Nueva carpeta (3)\Volumenes\Volumenes\bin\Debug\Volumenes.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\Volumenes\Volumenes\obj\Debug\Volumenes.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\Volumenes\Volumenes\obj\Debug\Volumenes.dll
+E:\Carpetas de Usuario\Nueva carpeta (3)\Volumenes\Volumenes\obj\Debug\Volumenes.pdb

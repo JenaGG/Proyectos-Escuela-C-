@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\bin\Debug\Programa13-Reutilizacion_Empresa,Trabajor.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\bin\Debug\Programa13-Reutilizacion_Empresa,Trabajor.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\bin\Debug\Programa13-Reutilizacion_Empresa,Trabajor.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\obj\Debug\Programa13-Reutilizacion_Empresa,Trabajor.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\obj\Debug\Programa13-Reutilizacion_Empresa,Trabajor.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa13-Reutilizacion_Empresa,Trabajor\Programa13-Reutilizacion_Empresa,Trabajor\obj\Debug\Programa13-Reutilizacion_Empresa,Trabajor.pdb

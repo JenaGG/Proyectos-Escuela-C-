@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\bin\Debug\Programa 29-ArchivoBinarioEmpleados.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\bin\Debug\Programa 29-ArchivoBinarioEmpleados.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\bin\Debug\Programa 29-ArchivoBinarioEmpleados.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\obj\Debug\Programa 29-ArchivoBinarioEmpleados.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\obj\Debug\Programa 29-ArchivoBinarioEmpleados.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 6 POO\Programa 29-ArchivoBinarioEmpleados\Programa 29-ArchivoBinarioEmpleados\obj\Debug\Programa 29-ArchivoBinarioEmpleados.pdb

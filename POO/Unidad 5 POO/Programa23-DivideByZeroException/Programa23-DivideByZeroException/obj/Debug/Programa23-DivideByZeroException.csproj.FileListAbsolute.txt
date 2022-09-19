@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\bin\Debug\Programa23-DivideByZeroException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\bin\Debug\Programa23-DivideByZeroException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\bin\Debug\Programa23-DivideByZeroException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\obj\Debug\Programa23-DivideByZeroException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\obj\Debug\Programa23-DivideByZeroException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa23-DivideByZeroException\Programa23-DivideByZeroException\obj\Debug\Programa23-DivideByZeroException.pdb

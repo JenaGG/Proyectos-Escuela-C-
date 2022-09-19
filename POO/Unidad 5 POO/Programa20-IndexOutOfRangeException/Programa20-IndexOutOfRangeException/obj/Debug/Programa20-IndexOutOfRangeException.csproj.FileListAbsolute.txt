@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\bin\Debug\Programa20-IndexOutOfRangeException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\POO\Unidad 5 POO\Programa20-IndexOutOfRangeException\Programa20-IndexOutOfRangeException\obj\Debug\Programa20-IndexOutOfRangeException.pdb

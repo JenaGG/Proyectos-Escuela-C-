@@ -1,0 +1,12 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\bin\Debug\Programa14-Reutilizacion Campos,Metodos.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 3 POO\Programa14-Reutilizacion Campos,Metodos\Programa14-Reutilizacion Campos,Metodos\obj\Debug\Programa14-Reutilizacion Campos,Metodos.pdb

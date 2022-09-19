@@ -1,0 +1,7 @@
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\bin\Debug\Programa Ejemplo Herencia.exe.config
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\bin\Debug\Programa Ejemplo Herencia.exe
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\bin\Debug\Programa Ejemplo Herencia.pdb
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\obj\Debug\Programa Ejemplo Herencia.csprojAssemblyReference.cache
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\obj\Debug\Programa Ejemplo Herencia.csproj.CoreCompileInputs.cache
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\obj\Debug\Programa Ejemplo Herencia.exe
+C:\Users\genar\Documents\Unidad 3 POO\Programa Ejemplo Herencia\Programa Ejemplo Herencia\obj\Debug\Programa Ejemplo Herencia.pdb

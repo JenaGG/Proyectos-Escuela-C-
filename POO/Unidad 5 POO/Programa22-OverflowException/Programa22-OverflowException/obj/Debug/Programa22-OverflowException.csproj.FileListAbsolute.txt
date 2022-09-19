@@ -1,0 +1,6 @@
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\bin\Debug\Programa22-OverflowException.exe.config
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\bin\Debug\Programa22-OverflowException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\bin\Debug\Programa22-OverflowException.pdb
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\obj\Debug\Programa22-OverflowException.csprojResolveAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\obj\Debug\Programa22-OverflowException.exe
+E:\Carpetas de Usuario\Nueva carpeta (3)\POO\Unidad 5 POO\Programa22-OverflowException\Programa22-OverflowException\obj\Debug\Programa22-OverflowException.pdb
