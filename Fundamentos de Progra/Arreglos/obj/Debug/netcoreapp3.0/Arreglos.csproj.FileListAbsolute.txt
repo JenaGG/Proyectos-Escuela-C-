@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\Arreglos\obj\Debug\netcoreapp3.0\Arreglos.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\Arreglos\obj\Debug\netcoreapp3.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\Arreglos\obj\Debug\netcoreapp3.0\Arreglos.AssemblyInfo.cs
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.exe
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.deps.json
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.runtimeconfig.json
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.dll
+C:\Users\ITT\Desktop\Arreglos\bin\Debug\netcoreapp3.0\Arreglos.pdb
+C:\Users\ITT\Desktop\Arreglos\obj\Debug\netcoreapp3.0\Arreglos.dll
+C:\Users\ITT\Desktop\Arreglos\obj\Debug\netcoreapp3.0\Arreglos.pdb

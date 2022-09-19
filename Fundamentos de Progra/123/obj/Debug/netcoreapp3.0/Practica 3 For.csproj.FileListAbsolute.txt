@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\123\obj\Debug\netcoreapp3.0\Practica 3 For.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\123\obj\Debug\netcoreapp3.0\Practica 3 For.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\123\obj\Debug\netcoreapp3.0\Practica 3 For.AssemblyInfo.cs
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.exe
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.deps.json
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.runtimeconfig.json
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.dll
+C:\Users\ITT\Desktop\123\bin\Debug\netcoreapp3.0\Practica 3 For.pdb
+C:\Users\ITT\Desktop\123\obj\Debug\netcoreapp3.0\Practica 3 For.dll
+C:\Users\ITT\Desktop\123\obj\Debug\netcoreapp3.0\Practica 3 For.pdb

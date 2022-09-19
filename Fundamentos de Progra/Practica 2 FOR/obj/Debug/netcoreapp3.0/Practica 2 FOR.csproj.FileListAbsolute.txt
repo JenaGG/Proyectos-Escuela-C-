@@ -1,0 +1,11 @@
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\obj\Debug\netcoreapp3.0\Practica 2 FOR.csprojAssemblyReference.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\obj\Debug\netcoreapp3.0\Practica 2 FOR.AssemblyInfoInputs.cache
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\obj\Debug\netcoreapp3.0\Practica 2 FOR.AssemblyInfo.cs
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.exe
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.deps.json
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.runtimeconfig.json
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.runtimeconfig.dev.json
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.dll
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\bin\Debug\netcoreapp3.0\Practica 2 FOR.pdb
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\obj\Debug\netcoreapp3.0\Practica 2 FOR.dll
+E:\Carpetas de Usuario\Nueva carpeta (2)\Trabajos de Progra\Practica 2 FOR\obj\Debug\netcoreapp3.0\Practica 2 FOR.pdb

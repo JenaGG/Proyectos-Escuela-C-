@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\Practica 041119\obj\Debug\netcoreapp3.0\Practica 041119.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\Practica 041119\obj\Debug\netcoreapp3.0\Practica 041119.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\Practica 041119\obj\Debug\netcoreapp3.0\Practica 041119.AssemblyInfo.cs
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.exe
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.deps.json
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.runtimeconfig.json
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.dll
+C:\Users\ITT\Desktop\Practica 041119\bin\Debug\netcoreapp3.0\Practica 041119.pdb
+C:\Users\ITT\Desktop\Practica 041119\obj\Debug\netcoreapp3.0\Practica 041119.dll
+C:\Users\ITT\Desktop\Practica 041119\obj\Debug\netcoreapp3.0\Practica 041119.pdb

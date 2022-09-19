@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\Practica Do While\bin\Debug\netcoreapp2.1\Practica Do While.deps.json
+C:\Users\ITT\Desktop\Practica Do While\bin\Debug\netcoreapp2.1\Practica Do While.runtimeconfig.json
+C:\Users\ITT\Desktop\Practica Do While\bin\Debug\netcoreapp2.1\Practica Do While.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\Practica Do While\bin\Debug\netcoreapp2.1\Practica Do While.dll
+C:\Users\ITT\Desktop\Practica Do While\bin\Debug\netcoreapp2.1\Practica Do While.pdb
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.AssemblyInfo.cs
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.dll
+C:\Users\ITT\Desktop\Practica Do While\obj\Debug\netcoreapp2.1\Practica Do While.pdb

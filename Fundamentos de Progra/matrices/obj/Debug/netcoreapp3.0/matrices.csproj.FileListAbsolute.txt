@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.exe
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.deps.json
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.runtimeconfig.json
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.dll
+C:\Users\ITT\Desktop\matrices\bin\Debug\netcoreapp3.0\matrices.pdb
+C:\Users\ITT\Desktop\matrices\obj\Debug\netcoreapp3.0\matrices.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\matrices\obj\Debug\netcoreapp3.0\matrices.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\matrices\obj\Debug\netcoreapp3.0\matrices.AssemblyInfo.cs
+C:\Users\ITT\Desktop\matrices\obj\Debug\netcoreapp3.0\matrices.dll
+C:\Users\ITT\Desktop\matrices\obj\Debug\netcoreapp3.0\matrices.pdb
